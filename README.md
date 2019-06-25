@@ -29,10 +29,10 @@ PyTorch implementation of [Probabilistic End-to-end Noise Correction for Learnin
 
 ## The framework of PENCIL
 
-![framework.eps](https://github.com/yikun2019/PENCIL/blob/master/framework.eps)
+![framework.png](https://github.com/yikun2019/PENCIL/blob/master/framework.png)
 ## The proportion of correct labels on CIFAR-10
-![SN30.eps](https://github.com/yikun2019/PENCIL/blob/master/SN70.eps)
-![AN30.eps](https://github.com/yikun2019/PENCIL/blob/master/AN30.eps)
+![SN30.png](https://github.com/yikun2019/PENCIL/blob/master/SN70.png)
+![AN30.png](https://github.com/yikun2019/PENCIL/blob/master/AN30.png)
 ## The results on real-world dataset Clothing1M
  |method|Test Accuracy (%)
 ---|:--:|:---:
