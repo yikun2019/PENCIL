@@ -48,7 +48,7 @@ PyTorch implementation of [Probabilistic End-to-end Noise Correction for Learnin
 If you find this code useful in your research, please consider citing us:
 
 ```
-@inproceedings{ML_GCN_CVPR_2019,
+@inproceedings{PENCIL_CVPR_2019,
 author = {Kun, Yi and Jianxin, Wu},
 title = {{Probabilistic End-to-end Noise Correction for Learning with Noisy Labels}},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
