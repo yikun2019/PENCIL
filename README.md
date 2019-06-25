@@ -32,14 +32,10 @@ PyTorch implementation of [Probabilistic End-to-end Noise Correction for Learnin
 ![framework.png](https://github.com/yikun2019/PENCIL/blob/master/framework.png)
 ## The proportion of correct labels on CIFAR-10
 <div align="center">
-<img src="https://github.com/yikun2019/PENCIL/blob/master/SN70.png" height="180" width="240" >
-<img src="https://github.com/yikun2019/PENCIL/blob/master/AN30.png" height="180" width="240" >
+<img src="https://github.com/yikun2019/PENCIL/blob/master/SN70.png" height="360" width="480" >
+<img src="https://github.com/yikun2019/PENCIL/blob/master/AN30.png" height="360" width="480" >
  </div>
---------------------- 
-作者：sunsteam 
-来源：CSDN 
-原文：https://blog.csdn.net/sunsteam/article/details/73112787 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+
 ## The results on real-world dataset Clothing1M
 |#|method|Test Accuracy (%)|
 |---|:--:|:---:|
