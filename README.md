@@ -34,12 +34,12 @@ PyTorch implementation of [Probabilistic End-to-end Noise Correction for Learnin
 ![SN30.png](https://github.com/yikun2019/PENCIL/blob/master/SN70.png)
 ![AN30.png](https://github.com/yikun2019/PENCIL/blob/master/AN30.png)
 ## The results on real-world dataset Clothing1M
- |method|Test Accuracy (%)
----|:--:|:---:
-1|Cross Entropy Loss|68.94
-2|Forward [1]|69.84
-3|Tanaka *et al*. [2]|72.16
-4|PENCIL|**73.49**
+|#|method|Test Accuracy (%)|
+|---|:--:|:---:|
+|1|Cross Entropy Loss|68.94|
+|2|Forward [1]|69.84|
+|3|Tanaka *et al*. [2]|72.16|
+|4|PENCIL|**73.49**|
 ## Citing this repository
 If you find this code useful in your research, please consider citing us:
 
