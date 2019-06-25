@@ -28,8 +28,9 @@ PyTorch implementation of [Probabilistic End-to-end Noise Correction for Learnin
 + `classnum`: number of train dataset classes
 
 ## The framework of PENCIL
-
-![framework.png](https://github.com/yikun2019/PENCIL/blob/master/framework.png)
+<div align="center">
+<img src="https://github.com/yikun2019/PENCIL/blob/master/framework.png" height="470" width="913" >
+ </div>
 ## The proportion of correct labels on CIFAR-10
 <div align="center">
 <img src="https://github.com/yikun2019/PENCIL/blob/master/SN70.png" height="360" width="480" >
