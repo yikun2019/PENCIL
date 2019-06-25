@@ -29,7 +29,7 @@ PyTorch implementation of [Probabilistic End-to-end Noise Correction for Learnin
 
 ## The framework of PENCIL
 <div align="center">
-<img src="https://github.com/yikun2019/PENCIL/blob/master/framework.png" height="470" width="913" >
+<img src="https://github.com/yikun2019/PENCIL/blob/master/framework.png" height="336" width="652" >
  </div>
 ## The proportion of correct labels on CIFAR-10
 <div align="center">
